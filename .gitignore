@@ -1,0 +1,19 @@
+# Laravel / Composer
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+/.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+.env.local
+.env.*.local
+*.log
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+nbproject
